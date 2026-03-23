@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class RiskThresholdLookup {
 
     static int linearComparisons = 0;
